@@ -1,0 +1,11 @@
+node_modules
+read-inventory/bin
+read-inventory/obj
+.env
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*

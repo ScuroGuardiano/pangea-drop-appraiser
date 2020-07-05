@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1593958813 source:f:\dev\pangea-drop-appraiser\read-inventory\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+	"proc.h"
+
+1593921462 f:\dev\pangea-drop-appraiser\read-inventory\proc.h
+	<windows.h>
+	<TlHelp32.h>
+	<vector>
+
