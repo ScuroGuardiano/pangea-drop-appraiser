@@ -4,8 +4,14 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "cd app && ng serve",
+    "start": "run.bat",
+    "electron": "electron ."
   },
   "author": "ScuroGuardiano",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^9.1.0"
+  }
 }
